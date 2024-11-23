@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Firulais",
+    "edad": "5",
+    "tipo": "Perro",
+    "color": "Marrón",
+    "enfermedad": "Vacunación"
+  },
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  }
+]
