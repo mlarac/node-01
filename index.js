@@ -22,7 +22,7 @@ const leer = async () => {
   }
 };
 
-// Assuming you're getting these variables from command line arguments or another source
+// obtenemos variables de linea de comando
 const operacion = process.argv[2];
 const nombre = process.argv[3];
 const edad = process.argv[4];
